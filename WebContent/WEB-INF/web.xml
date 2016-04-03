@@ -10,6 +10,7 @@
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>origin.jsp</welcome-file>
     <welcome-file>origin1.jsp</welcome-file>
+    <welcome-file>origin2.jsp</welcome-file>
 
   </welcome-file-list>
 </web-app>
